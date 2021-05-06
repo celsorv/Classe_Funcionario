@@ -2,8 +2,8 @@
 
    O Enum cria uma padronização no código.
 
-   Se futuramente eu quiser que Masculino.descricao
-   retorne "Masculino", basta alterar aqui
+   Se futuramente eu quiser que a descrição 
+   retornada seja outra, basta alterar aqui.
 
                                 ------------------- */
 
